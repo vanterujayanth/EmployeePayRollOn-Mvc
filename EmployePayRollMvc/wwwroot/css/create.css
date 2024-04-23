@@ -1,0 +1,183 @@
+﻿﻿.custom-textbox {
+    height: 35px;
+    width: 120%;
+}
+
+.height {
+    height: 50px;
+}
+
+.get {
+    text-align: center
+}
+h1 {
+    color: deepskyblue;
+    text-align: center;
+}
+.col-md-4 {
+    color:red;
+    font-size:24px;
+
+    margin:25px 350px 0px 0px;
+   /* style =" color:red;font-size=:20px;margin-right:350px; margin-top:25px;*/
+}
+.control-label  {
+    margin-right: 110px;
+    margin-bottom:20px;
+    
+
+}
+.control-labels {
+    display: flex;
+    margin-right: 55px;
+    justify-content:left;
+   
+}
+.control-labeld {
+    display: flex;
+    margin-right: 80px;
+}
+.btn-primary {
+    position: relative;
+    top: -10px;
+    left: 660px;
+    margin: 10px 0;
+    
+    background-color: #007bff;*/*Button background color */
+    color: #fff; /*Text color */
+    border: none; /*Remove border*/
+    padding: 10px 20px; /*Padding */
+    border-radius: 5px; /*Border radius */
+    cursor: pointer; /*Pointer cursor*/
+    }
+    /* Hover effect for the submit button*/
+    .btn-primary:hover {
+    background-color: #0056b3; /*Darker background color on hover */
+    }
+.form-control {
+    width: 100%; /* Change this value to adjust the width */
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+
+.a {
+    position: relative;
+    right: 460px;
+    color: #000080#FFDAB9; /*Link color*/
+    }
+.footer {
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    right:400px;
+    width: 360px;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+/*body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: deepskyblue;
+    text-align: center;
+}
+
+
+.row {
+    display: flex;
+    padding:50px 0px 0px 250px;
+    margin-top: 55px;*/ /*Add some space from the top */
+    /*background-color:red ;*/ /*aquamarine*/
+    /*border: 2px solid black;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border-radius: 23px;
+}
+
+.form-group {
+    padding-top: 10px;
+    display: flex;
+}*/
+    /*Style for the form column */
+    /*.col-md-4 {
+    color: black;*/ /*Text color */
+    /*font-size: 20px;*/ /* Font size */
+    /*}*/
+    /*Style for form labels*/
+    /*.control-label {
+    height: 35px;
+    width: 300px;;
+    margin-right: 15px;*/ /*Add right margin to labels */
+    /*}
+.control-label-1
+{
+    display:flex;
+}*/
+    /*Style for form inputs */
+    /*.form-control {
+    align-items: center;
+    width: 100%;*/ /*Full width*/
+    /*padding: 8px;*/ /* Padding */
+    /*border: 1px solid #ccc;*/ /* Border */
+    /*border-radius: 4px;*/ /*Border radius*/
+    /*box-sizing: border-box;*/ /*Box sizing */
+    /*margin-bottom: 10px;*/ /*Add bottom margin*/
+    /*}
+
+.form-image {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}*/
+    /*Style for the submit button*/
+    /*.btn-primary {
+    position: relative;
+    top: -10px;
+    left: 660px;
+    margin: 10px 0;*/ /* Margin */
+    /*background-color: #007bff;*/ /*Button background color */
+    /*color: #fff;*/ /*Text color */
+    /*border: none;*/ /*Remove border*/
+    /*padding: 10px 20px;*/ /*Padding */
+    /*border-radius: 5px;*/ /*Border radius */
+    /*cursor: pointer;*/ /*Pointer cursor*/
+    /*}*/
+    /* Hover effect for the submit button*/
+    /*.btn-primary:hover {
+    background-color: #0056b3;*/ /*Darker background color on hover */
+    /*}
+
+
+.a {
+    position: relative;
+    right: 460px;
+    color: #000080#FFDAB9;*/ /*Link color*/
+    /*}
+.footer {
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    right:400px;
+    width: 360px;
+    color: red;
+}*/
+    /* Style for the whole form */
+    /*form {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+﻿*/

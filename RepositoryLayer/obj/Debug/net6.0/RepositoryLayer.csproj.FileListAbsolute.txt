@@ -1,0 +1,15 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\EmployePayRollMvc\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

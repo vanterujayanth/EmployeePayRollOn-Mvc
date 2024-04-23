@@ -1,0 +1,23 @@
+﻿h1 {
+    color: deepskyblue;
+    text-align: center;
+}
+.container {
+   
+    
+    background-color: aquamarine;
+    border-radius: 25px;
+    width: 90%;
+    margin-bottom: 20px;
+}
+.footer {
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 360px;
+}
+.row {
+    margin-left:15px;
+    padding-top:20px;
+   
+}

@@ -1,0 +1,226 @@
+﻿@model ModelLayer.Models.EmployeeModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<style>
+/* .form-group
+{
+    padding-top:10px;
+    display:flex;
+    
+}
+.form-image {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+    .control-label {
+        padding-left: -30%;
+    }
+.footer
+{
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 360px;
+    color: white;
+}
+.row
+{
+    display:flex;
+    justify-content: center;
+    background-color:aquamarine;
+        border: 2px solid black;
+        border-radius: 23px;
+}
+
+    .form-group .btn-primary {
+        display:flex;
+       
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        position:absolute;
+        top:50px;
+        left:100px;
+    }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+h1
+{
+    text-align:center;
+} */
+    /* styles.css */
+
+    /* Style for the form container */
+
+   
+    
+</style>
+
+
+
+ <link rel="stylesheet" href="~/css/lSheet.css" asp-append-version="true" /> 
+
+
+<h1 >Employee Payroll Form  </h1>
+<hr />        
+    <div class="row d-flex justify-content-center">
+        
+        <div class="col-md-8">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    @* <label asp-for="EmployeeId" class="control-label"></label>
+                    <input asp-for="EmployeeId" class="form-control" />
+                    <span asp-validation-for="EmployeeId" class="text-danger"></span> *@
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex flex-row ">
+
+                        <label asp-for="Name" class="control-label" style="margin-right:35px;margin-left:5px"></label>
+
+                        <input asp-for="Name" class="form-control ml-5" style="margin-left:30px; margin-right:5px;" placeholder="Enter your name" />
+
+                    </div>
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex flex-row">
+
+                        <label asp-for="ProfileImage" class="control-label" style="margin-right:20px;margin-top:20px;margin-left:4px"></label>
+
+                        @* <input asp-for="ProfileImage" class="form-control" /> *@
+
+                        @Html.RadioButtonFor(x => x.ProfileImage, Url.Content("~/asserts/assert1.jpg"))
+                        <img src="~/asset/rollimg1.png" class="img  p-3" />
+                        @Html.RadioButtonFor(x => x.ProfileImage, Url.Content("~/asserts/assert2.jpg"))
+                        <img src="~/asset/rollimg2.png" class="img  p-3" />
+                        @Html.RadioButtonFor(x => x.ProfileImage, Url.Content("~/asserts/assert3.jpg"))
+                        <img src="~/asset/rollimg4.png" class="img  p-3" />
+                        @Html.RadioButtonFor(x => x.ProfileImage, Url.Content("~/asserts/rollimg1.png"))
+                        <img src="~/asset/rollimg5.png" class="img  p-3" />
+
+                    </div>
+                    <span asp-validation-for="ProfileImage" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div class="d-flex flex-row">
+                        <label asp-for="Gender" class="control-label " style="margin-right:60px;margin-left:15px;"></label>
+                        @* <input asp-for="Gender" class="form-control" /> *@
+
+                        <div class="ml-4">
+                            <div class="d-flex flex-row">
+                                <div class="ml-2 mr-2" style="margin-right:50px;">
+                                    @Html.RadioButtonFor(model => model.Gender, "Male")
+                                    Male
+                                </div>
+                                <div clas="ml-3 mr-2">
+                                    @Html.RadioButtonFor(model => model.Gender, "Female")
+                                    Female
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <span asp-validation-for="Gender" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex ">
+                        <label asp-for="Department" class="control-label" style="margin-right:30px;"></label>
+                        <div style="width:100%;">
+                        @Html.DropDownListFor(empModel => empModel.Department, new SelectList(new[]
+                                 {
+                        new SelectListItem { Text = "IT", Value = "IT" },
+                        new SelectListItem { Text = "HR", Value = "HR" },
+                        new SelectListItem { Text = "Finance", Value = "Finance" },
+                        new SelectListItem { Text = "Others", Value = "Others" }
+                        }, "Value", "Text"), "-- Select Department --", new { @class = "form-control" })
+                        @Html.ValidationMessageFor(empModel => empModel.Department, "", new { @class = "text-danger" })
+                    </div>
+                    </div>
+                   
+                @*  <input asp-for="Department" class="form-control" /> *@
+                @*  <fieldset>
+                <legend></legend>
+                <label>
+                <input type="checkbox" name="HR"> Hr
+                </label>
+                <label>
+                <input type="checkbox" name="Sales"> Sales
+                </label>
+                <label>
+                <input type="checkbox" name="Finance"> Finance
+                </label>
+                <label>
+                <input type="checkbox" name="Engineer"> Engineer
+                </label>
+                </fieldset>
+                @*
+
+                <select id="ddlCourse" name="ddlCourse">
+
+                <option value="">--Select Course----</option>
+
+                <option selected="selected"></option>
+
+                <option>SOFTWARE TESTING</option>
+                <option>DATABASE DEVELOPER</option>
+                <option>SOFTWARE DESIGNER</option>
+                <option>SOFTWARE DEVELOPER</option>
+                <option>APPLICATION DEVELOPER</option>
+                <option>BACKEND DEVELOPER</option>
+                <option>FRONTEND DEVELOPER</option>
+                <option>FULLSTACK DEVELOPER</option>
+                <option>DATA ENGINER</option>
+
+                <option>HR</option>
+
+                </select>*@
+
+                <span asp-validation-for="Department" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex ">
+                        <label asp-for="Salary" class="control-label" style="margin-right:50px"></label>
+                        <input asp-for="Salary" class="form-control" style="margin-left:20px" placeholder="Enter your salary" />
+                    </div>
+                    <span asp-validation-for="Salary" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex ">
+                        <label asp-for="StartDate" class="control-label" style="margin-right:46px"></label>
+                        <input asp-for="StartDate" class="form-control" />
+                    </div>
+                    <span asp-validation-for="StartDate" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3">
+                    <div class="d-flex ">
+                        <label asp-for="Notes" class="control-label" style="margin-right:50px; margin-top:20px;"></label>
+                        <input asp-for="Notes" class="form-control" style="margin-left:20px; height:80px;" />
+                    </div>
+                    <span asp-validation-for="Notes" class="text-danger"></span>
+                </div>
+                <div class="form-group m-3" style="text-align:end;">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }

@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1EFA89-8CDE-434C-801D-56BFE54938BE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\repositorylayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1EFA89-8CDE-434C-801D-56BFE54938BE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1EFA89-8CDE-434C-801D-56BFE54938BE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\repositorylayer\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1EFA89-8CDE-434C-801D-56BFE54938BE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A232A37A-B106-4F3A-8CE8-08EAEF3234FB}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\businesslayer\\services\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A232A37A-B106-4F3A-8CE8-08EAEF3234FB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\employeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A232A37A-B106-4F3A-8CE8-08EAEF3234FB}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\businesslayer\\interfaces\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A232A37A-B106-4F3A-8CE8-08EAEF3234FB}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interfaces\\iemployeebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\modellayer\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\getallemployeebyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\getallemployeebyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\getempbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\getempbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\modellayer\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\modellayer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\lsheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\lsheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\delete.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\css\\class.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\css\\class.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\employepayrollmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E0D1D7E8-197E-470A-B287-F6B9B93F4EE5}|EmployePayRollMvc\\EmployePayRollMvc.csproj|solutionrelative:employepayrollmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\employepayrollmvc\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9342005C-F958-4ECD-B3F1-3B3F00E517DE}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployePayRollMvc\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:08:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Services\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAkAAADAMTMzMzMbwHIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:38:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\appsettings.json",
+              "RelativeToolTip": "EmployePayRollMvc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T18:44:36.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\Interfaces\\IEmployeeBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:33:03.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\EmployeeBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:26:07.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:10:22.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAABADDMzMzMLwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T09:36:54.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "ModelLayer\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:33:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Login.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\Login.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAABsPQgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T06:01:41.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetEmpById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\GetEmpById.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\GetEmpById.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\GetEmpById.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\GetEmpById.cshtml",
+              "ViewState": "AQIAAAcAAABYKzMzM/MmwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T20:06:08.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAEMAAAAA1czMzMwXwEsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T10:17:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllEmployeeByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\GetAllEmployeeByName.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\GetAllEmployeeByName.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\GetAllEmployeeByName.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\GetAllEmployeeByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T06:56:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Program.cs",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Program.cs",
+              "RelativeToolTip": "EmployePayRollMvc\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:39:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T10:20:33.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "ModelLayer\\Models\\CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:46:43.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ModelLayer\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAQAAABoZWZmZmYkwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:45:56.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T09:42:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\Login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-18T10:44:19.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "create.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\create.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\create.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\create.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\create.css",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T09:39:26.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T09:36:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T09:36:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lSheet.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\lSheet.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\lSheet.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\lSheet.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\lSheet.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAABAvRUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-19T12:48:01.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAZmZmZmYkwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T09:24:31.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T09:35:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:46:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "edit.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\edit.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\edit.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\edit.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\edit.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T19:34:18.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "delete.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\delete.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\delete.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\delete.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\delete.css",
+              "ViewState": "AQIAAFIAAABg+/////8rwE4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T05:54:42.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Class.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\Class.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\css\\Class.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\css\\Class.css",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\css\\Class.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-17T10:59:02.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T09:18:31.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:37:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T09:36:48.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EmployePayRollMvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T09:36:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "EmployePayRollMvc\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\EmployePayRollMvc\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "EmployePayRollMvc\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-04-16T09:35:14.384Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\EmployePayRollMvc\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T09:00:28.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

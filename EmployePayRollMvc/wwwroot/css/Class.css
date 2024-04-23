@@ -1,0 +1,13 @@
+﻿img {
+    border-radius: 50%;
+}
+
+
+.control-label {
+    width: 120px;
+}
+
+.text-danger {
+    margin-left: 125px;
+    font-size: x-small;
+}
